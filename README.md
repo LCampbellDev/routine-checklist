@@ -234,7 +234,7 @@ The MVP will consider:
 * Reduced cognitive effort
 * Graceful behaviour where browser notification permissions aren't available
 
-The interface will also be designed with avoiding creating friction for users in mind.
+The interface will aim to be simple to understand and use, minimising unnecessary friction, including amount of steps, decisions and cognitive load.
 
 ## Why neurodivergent reminder workflows?
 
@@ -494,7 +494,7 @@ This creates a record both of the project's technical development and of my Type
 * [ ] Document significant review findings
 * [ ] Conduct prototype usability testing
 * [ ] Gather feedback from intended users
-* [ ] Record findings in `user-context.md`
+* [ ] Record findings in [docs/user-context.md](docs/user-context.md)
 * [ ] Compare findings with initial design hypotheses
 * [ ] Identify priorities for further research or development
 
